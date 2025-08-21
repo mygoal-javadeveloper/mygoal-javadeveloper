@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 GitHub Trophies  
 
 **[![trophy](https://github-profile-trophy.vercel.app/?username=mygoal-javadeveloper&theme=onedark)](https://github.com/mygoal-javadeveloper/github-profile-trophy)**
+**[![trophy](https://github-profile-trophy.vercel.app/?username=mygoal-javadeveloper&theme=onedark)](https://github.com/mygoal-javadeveloper)**
