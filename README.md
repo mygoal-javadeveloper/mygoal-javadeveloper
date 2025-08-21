@@ -22,5 +22,6 @@ GitHub Trophies
 <!--
 **[![trophy](https://github-profile-trophy.vercel.app/?username=mygoal-javadeveloper&theme=onedark)](https://github.com/mygoal-javadeveloper/github-profile-trophy)**
 **[![trophy](https://github-profile-trophy.vercel.app/?username=mygoal-javadeveloper&theme=onedark)](https://github.com/mygoal-javadeveloper)**
--->
 [![trophy](https://github-profile-trophy.vercel.app/?username=mygoal-javadeveloper&theme=onedark&no-cache=1)](https://github.com/mygoal-javadeveloper)
+-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=mygoal-javadeveloper&theme=github_dark&no-cache=1)](https://github.com/mygoal-javadeveloper)
